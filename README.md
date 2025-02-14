@@ -7,7 +7,7 @@ Bu proje, Kırklareli'nin üç farklı mahallesi için en uygun toplu taşıma h
 
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://imgur.com/a/aju1PR1](https://github.com/edizklu/toplu-tasima-hatti-plani/blob/main/images/ss.png?raw=true)
+![Uygulama Ekran Görüntüsü](https://github.com/edizklu/toplu-tasima-hatti-plani/blob/main/images/ss.png?raw=true)
 
   
 ## Bilgisayarınızda Çalıştırın
