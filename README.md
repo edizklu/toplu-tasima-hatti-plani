@@ -7,7 +7,7 @@ Bu proje, Kırklareli'nin üç farklı mahallesi için en uygun toplu taşıma h
 
 ## Ekran Görüntüleri
 
-![Uygulama Ekran Görüntüsü](https://prnt.sc/YU-GoZkIhuVg)
+![Uygulama Ekran Görüntüsü](https://imgur.com/a/aju1PR1)
 
   
 ## Bilgisayarınızda Çalıştırın
