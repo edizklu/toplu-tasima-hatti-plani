@@ -14,38 +14,26 @@ Bu proje, Kırklareli'nin üç farklı mahallesi için en uygun toplu taşıma h
   
 ## Bilgisayarınızda Çalıştırın
 
-Projeyi klonlayın
+Projeyi klonlayın:
 
 ```bash
-  git clone 
+  git clone https://github.com/edizklu/toplu-tasima-hatti-plani.git 
 ```
 
-Proje dizinine gidin
+Proje dizinine gidin:
 
 ```bash
-  cd my-project
+  cd toplu-tasima-hatti-plani
 ```
 
-Gerekli paketleri yükleyin
+Gerekli paketleri yükleyin ve projeyi derleyin (Maven kullanılarak):
 
 ```bash
-  npm install
+  mvn clean install
 ```
 
-Sunucuyu çalıştırın
-
-```bash
-  npm run start
-```
-
-  
 ## Kullanım/Örnekler
 Bu proje masaüstü (desktop) uygulaması olarak çalışmaktadır. Uygulama başlatıldığında, OpenStreetMap üzerinde mahallelerin işaretlendiğini ve softmax algoritması sonucunda en uygun güzergahın belirlenmiş olduğunu görürsünüz.
-Örnek kullanım:
-```javascript
-java -jar target/proje-adi.jar
-```
-
   
 ## Yol haritası
 
@@ -64,8 +52,8 @@ java -jar target/proje-adi.jar
 Projeyi yerel makinenize klonlayıp Maven ile derlemek için:
 
 ```bash 
-git clone https://github.com/kullaniciAdi/proje-adi.git
-cd proje-adi
+git clone https://github.com/edizklu/toplu-tasima-hatti-plani.git
+cd toplu-tasima-hatti-plani
 mvn clean install
 ```
     
