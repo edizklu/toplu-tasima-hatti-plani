@@ -7,7 +7,9 @@ Bu proje, Kırklareli'nin üç farklı mahallesi için en uygun toplu taşıma h
 
 ## Ekran Görüntüleri
 
+
 ![Uygulama Ekran Görüntüsü](https://github.com/edizklu/toplu-tasima-hatti-plani/blob/main/images/ss.png?raw=true)
+
 
   
 ## Bilgisayarınızda Çalıştırın
@@ -137,4 +139,8 @@ Bu projeyi geliştirirken algoritma analizi, yazılım mimarisi, GUI geliştirme
 
 Bu proje [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/) altında lisanslanmıştır.
 
+<<<<<<< HEAD
   
+=======
+  
+>>>>>>> 3b8f074 (İlk commit)
